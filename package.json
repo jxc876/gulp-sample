@@ -1,0 +1,15 @@
+{
+  "name": "gulp-sample",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "jxc876",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-less": "^3.0.5",
+    "gulp-uglify": "^1.5.3"
+  }
+}
